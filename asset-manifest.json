@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/%7Brepo-name%7D/static/js/main.2c2d1776.chunk.js",
-    "main.js.map": "/%7Brepo-name%7D/static/js/main.2c2d1776.chunk.js.map",
-    "runtime-main.js": "/%7Brepo-name%7D/static/js/runtime-main.5aa685bb.js",
-    "runtime-main.js.map": "/%7Brepo-name%7D/static/js/runtime-main.5aa685bb.js.map",
-    "static/css/2.679831fc.chunk.css": "/%7Brepo-name%7D/static/css/2.679831fc.chunk.css",
-    "static/js/2.c3186291.chunk.js": "/%7Brepo-name%7D/static/js/2.c3186291.chunk.js",
-    "static/js/2.c3186291.chunk.js.map": "/%7Brepo-name%7D/static/js/2.c3186291.chunk.js.map",
-    "index.html": "/%7Brepo-name%7D/index.html",
-    "static/css/2.679831fc.chunk.css.map": "/%7Brepo-name%7D/static/css/2.679831fc.chunk.css.map",
-    "static/js/2.c3186291.chunk.js.LICENSE.txt": "/%7Brepo-name%7D/static/js/2.c3186291.chunk.js.LICENSE.txt",
-    "static/media/logo.5787551b.svg": "/%7Brepo-name%7D/static/media/logo.5787551b.svg"
+    "main.js": "/MovieFlix/static/js/main.2c2d1776.chunk.js",
+    "main.js.map": "/MovieFlix/static/js/main.2c2d1776.chunk.js.map",
+    "runtime-main.js": "/MovieFlix/static/js/runtime-main.c7c7e867.js",
+    "runtime-main.js.map": "/MovieFlix/static/js/runtime-main.c7c7e867.js.map",
+    "static/css/2.679831fc.chunk.css": "/MovieFlix/static/css/2.679831fc.chunk.css",
+    "static/js/2.a9627b6a.chunk.js": "/MovieFlix/static/js/2.a9627b6a.chunk.js",
+    "static/js/2.a9627b6a.chunk.js.map": "/MovieFlix/static/js/2.a9627b6a.chunk.js.map",
+    "index.html": "/MovieFlix/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/MovieFlix/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.a9627b6a.chunk.js.LICENSE.txt": "/MovieFlix/static/js/2.a9627b6a.chunk.js.LICENSE.txt",
+    "static/media/logo.5787551b.svg": "/MovieFlix/static/media/logo.5787551b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5aa685bb.js",
+    "static/js/runtime-main.c7c7e867.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.c3186291.chunk.js",
+    "static/js/2.a9627b6a.chunk.js",
     "static/js/main.2c2d1776.chunk.js"
   ]
 }
